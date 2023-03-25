@@ -1,3 +1,3 @@
 #Resumen de la practica
 Habituarnos al ciclo de trabajo con Git
-cccccccc
+cambio de mensaje a hola
